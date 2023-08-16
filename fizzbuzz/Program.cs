@@ -21,7 +21,3 @@ static void fizzbuzz()
         }
     }
 }
-static void prueba()
-{
-    Console.WriteLine("probando git");
-}
